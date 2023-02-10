@@ -6,7 +6,7 @@ Eu sou um engenheiro de dados e atualmente trabalho na Cielo, anteriormente Visa
 
 
 ## 📚  Tecnologias em que estou me desenvolvendo
-`PySpark` `Docker`
+`PySpark` `Docker` `Amazon SageMaker` `Amazon EMR`
 
 ## :chart_with_upwards_trend:  Alguns dados sobre minhas contribuições
 
