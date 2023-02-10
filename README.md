@@ -6,7 +6,7 @@ Eu sou um engenheiro de dados e atualmente trabalho na Cielo, anteriormente Visa
 
 
 ## 📚  Tecnologias em que estou me desenvolvendo
-`PySpark` `Apache Kafka` `Docker` `Amazon Kinesis Streams` `HTML` `JavaScript` `Bootstrap` `NodeJs`
+`PySpark` `Docker`
 
 ## :chart_with_upwards_trend:  Alguns dados sobre minhas contribuições
 
